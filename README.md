@@ -1,2 +1,2 @@
 # flask-mongoengine
-Flask + Mongoengine + Bootstrap docker container
+Flask + Mongoengine in docker container
