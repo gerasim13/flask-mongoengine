@@ -1,3 +1,2 @@
 flask-mongoengine
-enum34
 git+https://github.com/MongoEngine/extras-mongoengine.git
