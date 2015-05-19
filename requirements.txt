@@ -1,2 +1,3 @@
+Pillow
 flask-mongoengine
 git+https://github.com/MongoEngine/extras-mongoengine.git
