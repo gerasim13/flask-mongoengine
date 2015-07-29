@@ -1,5 +1,4 @@
 git+https://github.com/MongoEngine/mongoengine.git
 git+https://github.com/MongoEngine/extras-mongoengine.git
-Pillow
-python-dateutil
 flask-mongoengine
+python-dateutil
