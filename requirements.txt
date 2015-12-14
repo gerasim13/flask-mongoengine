@@ -1,4 +1,4 @@
 git+https://github.com/MongoEngine/mongoengine.git
+git+https://github.com/MongoEngine/flask-mongoengine.git
 git+https://github.com/MongoEngine/extras-mongoengine.git
-flask-mongoengine
 python-dateutil
